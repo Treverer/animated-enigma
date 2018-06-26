@@ -1,5 +1,3 @@
-# animated-enigma
-for github pages
 Welcome to my docu
 [my first file] (file1.md)
 [my second file] (file2.md)
